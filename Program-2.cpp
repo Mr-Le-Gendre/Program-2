@@ -19,7 +19,7 @@ int main() {
     double currentSalary, payIncrease, updatedSalary;  // Supplied constants: Current Salary, Pay Increase
 
     // Processing notes:
-    // 1. Open input file for reading, handle errors.
+    // 1. Open input file for reading, and display error if can't be opened.
     // 2. Read data from the input file and calculate updated salary.
     // 3. Display updated salary for each employee.
     // 4. Write employee's name and updated salary to output file.
